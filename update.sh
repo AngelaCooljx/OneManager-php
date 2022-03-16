@@ -56,7 +56,7 @@ if [ g"$install" != g"1" -a g"$update" != g"1" ]; then
   exit
 fi
 
-gitsource='https://hub.fastgit.com/qkqpttgf/OneManager-php'
+gitsource='https://hub.fastgit.xyz/qkqpttgf/OneManager-php'
 
 OneManagerPath=`cd $(dirname $0);pwd -P`
 cd ${OneManagerPath}
